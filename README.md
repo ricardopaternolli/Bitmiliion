@@ -1,4 +1,4 @@
-# Bitmillion Core [BTM, ]
+# Bitmillion Core [BTN]
 ==========================
 
 ![Bitmillion](http://www.bitmillion.org/images/logo.png)
